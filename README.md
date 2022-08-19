@@ -4,3 +4,4 @@ This repository contains files related to Pattern Recognition and Machine Learni
 
 ## Assignments Included
 1. Probability Theory
+2. Linear Algebra
