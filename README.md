@@ -62,3 +62,5 @@ This repository contains files related to Pattern Recognition and Machine Learni
   5. MultiClass Logistic Regression
   
 </details>
+
+> Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt. &mdash; Sun Tzu, The Art of War
