@@ -37,8 +37,8 @@ This repository contains files related to Pattern Recognition and Machine Learni
 <details> 
   <summary> Lab 4 - Clustering - I </summary>
   
-  1. K-Means Clustering
-  2. Gaussian Mixture Model
+  1. Partition Based Clustering (K-Means)
+  2. Model Based Clustering (GMM)
   
 </details>
 
@@ -48,7 +48,7 @@ This repository contains files related to Pattern Recognition and Machine Learni
   1. Fitting of a Line
   2. Fitting of a Plane
   3. Fitting of an M-Dimensional Hyperplane
-  4. Salary Prediction using Regression
+  4. Applications of Regression: Salary Prediction
   
 </details>
 
@@ -60,6 +60,33 @@ This repository contains files related to Pattern Recognition and Machine Learni
   3. Logistic Regression
   4. Classification of Circular-Separated data using LogReg
   5. MultiClass Logistic Regression
+  
+</details>
+
+<details> 
+  <summary> Lab 7 - Clustering - II </summary>
+  
+  1. Density Based Clustering (DBSCAN)
+  2. Partition Based Clustering (Fuzzy C-Means)
+  3. Hierarchial Clustering (Agglomerative Approach)
+  4. Applications of Clustering: MNIST Digit Dataset
+  
+</details>
+
+<details> 
+  <summary> Lab 8 - Classification </summary>
+  
+  1. Support Vector Machines
+  2. K-Nearest Neighbours
+  3. Applications of Classification: MNIST Digit Dataset
+  
+</details>
+
+<details> 
+  <summary> Lab 9 - Na&iuml;ve Bayes </summary>
+  
+  1. Binary Classification
+  2. Sentiment Analysis
   
 </details>
 
