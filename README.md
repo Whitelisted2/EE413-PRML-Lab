@@ -90,4 +90,22 @@ This repository contains files related to Pattern Recognition and Machine Learni
   
 </details>
 
+<details> 
+  <summary> Lab 10 - Hidden Markov Model </summary>
+  
+  1. Evaluation Problem (Forward, Backward Algorithms)
+  2. Learning Problem (Baum Welch Algorithm)
+  3. Decoding Problem (Viterbi Algorithm)
+  4. Using decoder from hmmlearn package
+  
+</details>
+
+<details> 
+  <summary> Lab 11 - Dimensionality Reduction </summary>
+  
+  1. PCA (Principal Component Analysis)
+  2. LDA (Linear Discriminant Analysis)
+  
+</details>
+
 > Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt. &mdash; Sun Tzu, The Art of War
