@@ -39,6 +39,7 @@ This repository contains files related to Pattern Recognition and Machine Learni
   
   1. Partition Based Clustering (K-Means)
   2. Model Based Clustering (GMM)
+  3. Applications of Clustering: Iris Flower Dataset
   
 </details>
 
